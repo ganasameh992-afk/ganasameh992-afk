@@ -14,3 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+# Hi, I'm gana! 👋
+I'm learning programming 
+
+
+## API Reference
+
+#### Get all items
+
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+Gana

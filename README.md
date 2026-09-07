@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [ganasameh]
 
 I am a passionate computer science student and developer. I am currently focusing on mastering low-level programming and building a solid foundation in software development.
 

@@ -1,66 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm [Your Name]
 
-<!--
-**ganasameh992-afk/ganasameh992-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full-Stack Developer** (أو تخصصك الحالي مثل Frontend Developer) from Egypt. I love building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python** (ضعي اللغات التي تتعلمينها).
+- 🎯 My goal is to build impactful and creative projects.
+- ⚡ Fun fact: I enjoy problem-solving and turning ideas into real applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub, VS Code
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
-# Hi, I'm gana! 👋
-I'm learning programming 
-
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## Demo
-
-Insert gif or link to demo
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-Gana
+### 📫 How to reach me:
+- Email: [your.email@example.com]
+- LinkedIn: [Your LinkedIn Profile URL]
+- 

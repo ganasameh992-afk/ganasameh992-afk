@@ -1,18 +1,17 @@
 # Hi there 👋 I'm [Your Name]
 
-I am a passionate **Full-Stack Developer** (أو تخصصك الحالي مثل Frontend Developer) from Egypt. I love building web applications and learning new technologies.
+I am a passionate computer science student and developer. I am currently focusing on mastering low-level programming and building a solid foundation in software development.
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python** (ضعي اللغات التي تتعلمينها).
-- 🎯 My goal is to build impactful and creative projects.
-- ⚡ Fun fact: I enjoy problem-solving and turning ideas into real applications.
+- 🔭 I’m currently working on solving problem-solving challenges and coding logic.
+- 🌱 I’m currently learning **C++**, Object-Oriented Programming (OOP), and Data Structures.
+- 🎯 My goal is to build efficient software and improve my algorithmic thinking.
+- ⚡ Fun fact: I love the challenge of writing clean and optimized C++ code!
 
 ### 🛠️ Tech Stack:
-- **Languages:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** C++, C
+- **Tools:** Git, GitHub, Code::Blocks / VS Code
 
 ### 📫 How to reach me:
 - Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
 - 
